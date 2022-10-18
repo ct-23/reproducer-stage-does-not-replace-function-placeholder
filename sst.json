@@ -1,0 +1,5 @@
+{
+  "name": "reproducer-stage-does-not-replace-function-placeholder",
+  "region": "eu-central-1",
+  "main": "stacks/index.ts"
+}
